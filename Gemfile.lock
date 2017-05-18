@@ -47,7 +47,7 @@ GEM
       public_suffix (~> 2.0, >= 2.0.2)
     arel (8.0.0)
     ast (2.3.0)
-    autoprefixer-rails (7.1.0)
+    autoprefixer-rails (7.1.1)
       execjs
     bindex (0.5.0)
     bootstrap-sass (3.3.7)
@@ -408,7 +408,7 @@ DEPENDENCIES
   coffee-rails
   dalli
   database_cleaner
-  draper (~> 3.0.0.pre1)
+  draper
   factory_girl_rails
   faker
   figaro
