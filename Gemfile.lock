@@ -452,7 +452,7 @@ DEPENDENCIES
   simplecov
   spring
   spring-commands-rspec
-  timecop
+  timecop (~> 0.9.1)
   twitter
   typhoeus
   uglifier
